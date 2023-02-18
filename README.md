@@ -1,4 +1,4 @@
-# Let-sTranslate (Langauge Translation Site Using React js)
+# Let-sTranslate (Language Translation Site Using React js)
 
 Site Link :- 
 
